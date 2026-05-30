@@ -1,0 +1,7 @@
+
+BRANCH
+
+    git branch --- verifica quantas branchs existem e onde está.
+    git branch <nome da branch> ou  git switch -c <nome da branch> --- cria uma nova branch
+    git switch <nome da branch> --- Altera entre as branch's
+    git branch -d <nome da branch> --- deleta a branch
